@@ -531,16 +531,16 @@ body::selection {
 }
 
 .project-img-1 {
-  height: 50vh;
-  top: 75px;
-  left: 15px;
+  width: 50vh;
+  top: 110px;
+  left: 75px;
   object-fit: cover;
-  transform: scale(1.4) rotate(-5deg);
+  transform: scale(1.7) rotate(-3.5deg);
   transition: 0.3s ease-in-out;
 }
 
 .project-card:hover .project-img-1{
-  transform: scale(1.6) 
+  transform: scale(1.9) 
 }
 
 .project-img-2 {
