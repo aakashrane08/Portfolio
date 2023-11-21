@@ -453,6 +453,14 @@ body::selection {
 }
 
 .left-project {
+  justify-content: space-between;
+  gap: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-project {
   justify-content: space-evenly;
   display: flex;
   flex-direction: column;
